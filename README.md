@@ -6,7 +6,7 @@ An interactive **Power BI dashboard** built using the **IBM HR Analytics Employe
 
 ## 📸 Dashboard Preview
 
-![HR Attrition Analytics Dashboard](dashboard.png)
+![HR Attrition Analytics Dashboard](https://github.com/MansiChaudhary23/HR-attrition-dashboard/blob/main/snapshot%20HR%20attrition%20dashboard.png)
 
 
 ---
