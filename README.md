@@ -129,7 +129,7 @@ Data Analytics | Power BI | SQL | Python | Machine Learning
 
 ##  Dashboard Preview
 
-![HR Attrition Analytics Dashboard](https://github.com/MansiChaudhary23/HR-attrition-dashboard/blob/main/snapshot%20HR%20attrition%20dashboard.png)
+![HR Attrition Analytics Dashboard](https://github.com/MansiChaudhary23/HR-attrition-dashboard/blob/main/snapshot.png)
 
 
 ---
